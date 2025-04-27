@@ -20,4 +20,5 @@ Kesti hetken aikaa, kunnes se käynnistyi ja alkoi pyörittää haluttua imagea 
 <img src="/Pictures/flyio4.png" width="681" height="288">
 
 Tuhosin tämän jälkeen demo sovelluksen, ettei se jää turhaan pyörimään testauksen jälkeen.
+
 ---
