@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: #343434;
+  }
+</style>
+
 # JuhoStarck.github.io
 ---
 # Learning diary
