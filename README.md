@@ -5,13 +5,11 @@
   }
 </style>
 
-# JuhoStarck.github.io
----
 # Learning diary
----
+
 ## **Week1**
 
-### Fly.io assignment:
+### <ins>Fly.io assignment:</ins>
 Do a hands-on tutorial and install that ready docker container provided.
 
 Asensin ja kirjauduin sisään fly.io onnistuneesti, jonka jälkeen käynnistin demo sovelluksen. Käynnistin sen suositelluilla default-asetuksilla.
@@ -29,3 +27,4 @@ Kesti hetken aikaa, kunnes se käynnistyi ja alkoi pyörittää haluttua imagea 
 Tuhosin tämän jälkeen demo sovelluksen, ettei se jää turhaan pyörimään testauksen jälkeen.
 
 ---
+Käytin [GitHub Pages](https://pages.github.com/) tämän sivun tekemiseen.
