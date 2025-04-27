@@ -1,6 +1,7 @@
 <style>
   body {
     background-color: #343434;
+    color: #f5f5f5;
   }
 </style>
 
